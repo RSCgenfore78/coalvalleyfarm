@@ -1,7 +1,6 @@
 <html>
 <head>
-<title>Page Title</title>
-</head>
+Page Title</head>
 <body>
 
 <h1>This is a Heading</h1>
