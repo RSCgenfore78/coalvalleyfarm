@@ -5,7 +5,7 @@
 <h1>This is a Heading</h1>
 <p>This is a paragraph.</p>
  
-<a href=/images/Farm 1.jpg>Farm</a> 
+<img src=/images/Farm 1.jpg</a> 
 </body>
 </html> 
 
