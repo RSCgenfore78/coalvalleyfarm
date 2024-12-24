@@ -1,8 +1,6 @@
 
 <html>
-<head>
- <title>McRoberts/McKee Farm</title>
-</head>
+<head>McRoberts/McKee Farm</head>
 <body>
 <div>
 <h1>This is a Heading</h1>
